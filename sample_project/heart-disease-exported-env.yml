@@ -1,4 +1,4 @@
-name: /Users/yuvalpress/Desktop/Courses/data-science-course/sample_project/env
+name: sample_project
 channels:
   - defaults
 dependencies:
@@ -209,4 +209,4 @@ dependencies:
   - zstd=1.5.5=hd90d995_0
   - pip:
       - pyqt5-sip==12.11.0
-prefix: /Users/yuvalpress/Desktop/Courses/data-science-course/sample_project/env
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/sample_project
